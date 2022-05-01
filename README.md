@@ -1,4 +1,4 @@
-Code for "Predicting Stack Overflow tags"
+Code for [https://zackyzz.github.io/PredictingSOTags.pdf]("Predicting Stack Overflow tags")
 
 This code can comes in two forms: using Racket (where everything is implemented from scratch) and using Python (using existing libraries, however it works way faster).
 
